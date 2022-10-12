@@ -1,0 +1,1 @@
+05_머신러닝/human_activity/
